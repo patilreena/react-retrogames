@@ -1,0 +1,9 @@
+{
+  "name": "react-retrogames",
+  "version": "1.0.0",
+  "description": "A fun app written in nodejs,react and redux",
+  "main": "index.js",
+  "repository": "git@github.com:patilreena/react-retrogames.git",
+  "author": "Reena Patil",
+  "license": "MIT"
+}
